@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\datatable_core.props" />
+</Project>

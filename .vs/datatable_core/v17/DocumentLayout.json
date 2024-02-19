@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\CursoBasico\\datatable_core\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00951136-F935-4FAE-9C43-88C3B14A31A0}|datatable_core\\datatable_core.csproj|c:\\users\\user\\source\\repos\\cursobasico\\datatable_core\\datatable_core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00951136-F935-4FAE-9C43-88C3B14A31A0}|datatable_core\\datatable_core.csproj|solutionrelative:datatable_core\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00951136-F935-4FAE-9C43-88C3B14A31A0}|datatable_core\\datatable_core.csproj|c:\\users\\user\\source\\repos\\cursobasico\\datatable_core\\datatable_core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00951136-F935-4FAE-9C43-88C3B14A31A0}|datatable_core\\datatable_core.csproj|solutionrelative:datatable_core\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00951136-F935-4FAE-9C43-88C3B14A31A0}|datatable_core\\datatable_core.csproj|c:\\users\\user\\source\\repos\\cursobasico\\datatable_core\\datatable_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00951136-F935-4FAE-9C43-88C3B14A31A0}|datatable_core\\datatable_core.csproj|solutionrelative:datatable_core\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00951136-F935-4FAE-9C43-88C3B14A31A0}|datatable_core\\datatable_core.csproj|c:\\users\\user\\source\\repos\\cursobasico\\datatable_core\\datatable_core\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00951136-F935-4FAE-9C43-88C3B14A31A0}|datatable_core\\datatable_core.csproj|solutionrelative:datatable_core\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00951136-F935-4FAE-9C43-88C3B14A31A0}|datatable_core\\datatable_core.csproj|c:\\users\\user\\source\\repos\\cursobasico\\datatable_core\\datatable_core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00951136-F935-4FAE-9C43-88C3B14A31A0}|datatable_core\\datatable_core.csproj|solutionrelative:datatable_core\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00951136-F935-4FAE-9C43-88C3B14A31A0}|datatable_core\\datatable_core.csproj|c:\\users\\user\\source\\repos\\cursobasico\\datatable_core\\datatable_core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00951136-F935-4FAE-9C43-88C3B14A31A0}|datatable_core\\datatable_core.csproj|solutionrelative:datatable_core\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00951136-F935-4FAE-9C43-88C3B14A31A0}|datatable_core\\datatable_core.csproj|c:\\users\\user\\source\\repos\\cursobasico\\datatable_core\\datatable_core\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{00951136-F935-4FAE-9C43-88C3B14A31A0}|datatable_core\\datatable_core.csproj|solutionrelative:datatable_core\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00951136-F935-4FAE-9C43-88C3B14A31A0}|datatable_core\\datatable_core.csproj|c:\\users\\user\\source\\repos\\cursobasico\\datatable_core\\datatable_core\\datatable_core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{00951136-F935-4FAE-9C43-88C3B14A31A0}|datatable_core\\datatable_core.csproj|solutionrelative:datatable_core\\datatable_core.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CursoBasico\\datatable_core\\datatable_core\\Program.cs",
+              "RelativeDocumentMoniker": "datatable_core\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CursoBasico\\datatable_core\\datatable_core\\Program.cs",
+              "RelativeToolTip": "datatable_core\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T22:47:34.506Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CursoBasico\\datatable_core\\datatable_core\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "datatable_core\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CursoBasico\\datatable_core\\datatable_core\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "datatable_core\\Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-19T19:22:48.611Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CursoBasico\\datatable_core\\datatable_core\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "datatable_core\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CursoBasico\\datatable_core\\datatable_core\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "datatable_core\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAACAAAAAAAAAAAAAwwCcAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-19T18:21:21.14Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CursoBasico\\datatable_core\\datatable_core\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "datatable_core\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CursoBasico\\datatable_core\\datatable_core\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "datatable_core\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAADkAAAAAAAAAAAAiwFMAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-19T19:24:29.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CursoBasico\\datatable_core\\datatable_core\\appsettings.json",
+              "RelativeDocumentMoniker": "datatable_core\\appsettings.json",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CursoBasico\\datatable_core\\datatable_core\\appsettings.json",
+              "RelativeToolTip": "datatable_core\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-02-19T19:22:59.837Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CursoBasico\\datatable_core\\datatable_core\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "datatable_core\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CursoBasico\\datatable_core\\datatable_core\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "datatable_core\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-19T19:22:46.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CursoBasico\\datatable_core\\datatable_core\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "datatable_core\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CursoBasico\\datatable_core\\datatable_core\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "datatable_core\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAkAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-19T19:09:33.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "datatable_core.csproj",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\CursoBasico\\datatable_core\\datatable_core\\datatable_core.csproj",
+              "RelativeDocumentMoniker": "datatable_core\\datatable_core.csproj",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\CursoBasico\\datatable_core\\datatable_core\\datatable_core.csproj",
+              "RelativeToolTip": "datatable_core\\datatable_core.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-02-19T18:18:30.749Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
